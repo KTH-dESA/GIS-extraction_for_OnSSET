@@ -10,3 +10,5 @@ Below follow instructions on how to install and use the plugins. Note that these
 ### How to use
 
 #### Installation
+
+Instruction on how to install the plugins in QGIS can be found [here] (https://github.com/KTH-dESA/GIS-extraction_for_OnSSET/tree/master/Instructions)
