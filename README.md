@@ -12,3 +12,5 @@ Below follow instructions on how to install and use the plugin. Note that this p
 Instruction on how to install the plugin in QGIS can be found [here](https://github.com/KTH-dESA/GIS-extraction_for_OnSSET/blob/master/Instructions/Installation%20of%20plugins.docx)
 
 Instructions on how to use the plugin can be found [here](https://github.com/KTH-dESA/GIS-extraction_for_OnSSET/blob/master/Instructions/Running%20the%20raster%20based%20plugin.docx)
+
+The plugin is avialable for download [here](https://github.com/KTH-dESA/Raster-based_extraction_OnSSET/blob/master/Plugin/onsset.zip)
